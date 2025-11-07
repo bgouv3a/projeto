@@ -2,3 +2,12 @@
     margin: 0px;
     padding: 0px;
 }
+footer{
+    color: lime;
+}
+footer p {
+    font-size: 30px;
+}
+body{
+    background-color: tomato;
+}
