@@ -2,3 +2,12 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-color: tomato;
+}
+header h1{
+    color:aqua ;
+}
+p{
+    background-color: yellowgreen;
+}
